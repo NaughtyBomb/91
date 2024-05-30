@@ -821,6 +821,21 @@ hr {
     background: #408000;
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-104 .tile-inner {
+    color: #000000;
+    background: #ff80ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-105 .tile-inner {
+    color: #ffffff;
+    background: #0080ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-108 .tile-inner {
+    color: #ffffff;
+    background: #00ff00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
   .tile.tile-super .tile.inner {
     color: #808080;
     background: #808080;
