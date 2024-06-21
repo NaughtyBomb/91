@@ -821,6 +821,11 @@ hr {
     background: #408000;
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-100 .tile-inner {
+    color: #ffffff;
+    background: #0000ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
   .tile.tile-104 .tile-inner {
     color: #000000;
     background: #ff80ff;
@@ -834,6 +839,181 @@ hr {
   .tile.tile-108 .tile-inner {
     color: #ffffff;
     background: #00ff00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-110 .tile-inner {
+    color: #ffffff;
+    background: #8f4000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-112 .tile-inner {
+    color: #ffffff;
+    background: #00ffff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-117 .tile-inner {
+    color: #000000;
+    background: #c0ff80;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-120 .tile-inner {
+    color: #ffffff;
+    background: #ffff00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-121 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-125 .tile-inner {
+    color: #ffffff;
+    background: #ff0000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-126 .tile-inner {
+    color: #ffffff;
+    background: #ff8000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-128 .tile-inner {
+    color: #ffffff;
+    background: #ffff00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-130 .tile-inner {
+    color: #000000;
+    background: #ffc080;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-132 .tile-inner {
+    color: #ffffff;
+    background: #008080;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-135 .tile-inner {
+    color: #ffffff;
+    background: #8000ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-140 .tile-inner {
+    color: #ffffff;
+    background: #ff00ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-143 .tile-inner {
+    color: #ffffff;
+    background: #808080;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-144 .tile-inner {
+    color: #ffffff;
+    background: #0080ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-147 .tile-inner {
+    color: #ffffff;
+    background: #ff8000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-150 .tile-inner {
+    color: #ffffff;
+    background: #00ffff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-154 .tile-inner {
+    color: #ffffff;
+    background: #408000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-156 .tile-inner {
+    color: #000000;
+    background: #80ffff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-160 .tile-inner {
+    color: #ffffff;
+    background: #00ff80;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-162 .tile-inner {
+    color: #ffffff;
+    background: #ffff00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-165 .tile-inner {
+    color: #ffffff;
+    background: #800040;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-168 .tile-inner {
+    color: #ffffff;
+    background: #00ff00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-169 .tile-inner {
+    color: #000000;
+    background: #ffffff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-175 .tile-inner {
+    color: #ffffff;
+    background: #ffff00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-176 .tile-inner {
+    color: #ffffff;
+    background: #800040;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-180 .tile-inner {
+    color: #ffffff;
+    background: #ff0000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-182 .tile-inner {
+    color: #000000;
+    background: #c0ff80;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-189 .tile-inner {
+    color: #ffffff;
+    background: #ff0080;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-192 .tile-inner {
+    color: #ffffff;
+    background: #ff00ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-195 .tile-inner {
+    color: #000000;
+    background: #ff80c0;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-196 .tile-inner {
+    color: #ffffff;
+    background: #00ff00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-198 .tile-inner {
+    color: #ffffff;
+    background: #008000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-200 .tile-inner {
+    color: #ffffff;
+    background: #8000ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-208 .tile-inner {
+    color: #000000;
+    background: #ff80c0;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-210 .tile-inner {
+    color: #ffffff;
+    background: #0000ff;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
   .tile.tile-super .tile.inner {
