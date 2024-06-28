@@ -599,6 +599,12 @@ hr {
     background: #00ff00;
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-19 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-20 .tile-inner {
     color: #ffffff;
     background: #ffff00;
@@ -670,6 +676,12 @@ hr {
     background: #00ff80;
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-38 .tile-inner {
+    color: #ffffff;
+    background: #0000bb;
+    font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-39 .tile-inner {
     color: #000000;
     background: #80ff80;
@@ -736,6 +748,12 @@ hr {
     background: #00ff80;
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-57 .tile-inner {
+    color: #ffffff;
+    background: #008d00;
+    font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-60 .tile-inner {
     color: #ffffff;
     background: #ff8000;
@@ -782,6 +800,12 @@ hr {
     background: #00ff80;
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-76 .tile-inner {
+    color: #ffffff;
+    background: #5800af;
+    font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-77 .tile-inner {
     color: #ffffff;
     background: #808000;
@@ -836,6 +860,12 @@ hr {
     background: #ffff80;
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-95 .tile-inner {
+    color: #ffffff;
+    background: #8f0000;
+    font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-96 .tile-inner {
     color: #ffffff;
     background: #8000ff;
