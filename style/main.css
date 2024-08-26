@@ -234,7 +234,7 @@ hr {
 .tile, .tile .tile-inner {
   width: 52.25px;
   height: 52.25px;
-  line-height: 56.25px; }
+  line-height: 52.25px; }
 .tile.tile-position-1-1 {
   -webkit-transform: translate(0px, 0px);
   -moz-transform: translate(0px, 0px);
@@ -508,6 +508,11 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 0px; }
+  .tile.tile-0 .tile-inner {
+    color: #eafb09;
+    background: #808080;
+    font-size: 35px;
+    background-image: repeating-radial-gradient(#dfdf7059, transparent 10px); }
   .tile.tile-1 .tile-inner {
     color: #ffffff;
     background: #808080;
