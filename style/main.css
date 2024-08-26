@@ -507,7 +507,7 @@ hr {
     text-align: center;
     font-weight: bold;
     z-index: 10;
-    font-size: 4px; }
+    font-size: 0px; }
   .tile.tile-1 .tile-inner {
     color: #ffffff;
     background: #808080;
@@ -1190,10 +1190,6 @@ hr {
     background: #808000;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
-  .tile.tile-super .tile.inner {
-    color: #808080;
-    background: #808080;
-    font-size: 4px; }
 
 @-webkit-keyframes appear {
   0% {
