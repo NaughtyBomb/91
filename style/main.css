@@ -794,6 +794,12 @@ hr {
     background: #ff8000;
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-62 .tile-inner {
+    color: #ffffff;
+    background: #000095;
+    font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(109deg, #4c0000, transparent 13px); }
   .tile.tile-63 .tile-inner {
     color: #ffffff;
     background: #ff0000;
@@ -913,6 +919,12 @@ hr {
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(67deg, #4e2a00, transparent 15px); }
+  .tile.tile-93 .tile-inner {
+    color: #ffffff;
+    background: #009300;
+    font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(109deg, #4c0000, transparent 13px); }
   .tile.tile-95 .tile-inner {
     color: #ffffff;
     background: #8f0000;
@@ -1166,6 +1178,12 @@ hr {
     background: #ff0080;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-190 .tile-inner {
+    color: #ffffff;
+    background: #9b4e00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-192 .tile-inner {
     color: #ffffff;
     background: #ff00ff;
@@ -1202,7 +1220,7 @@ hr {
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
   .tile.tile-221 .tile-inner {
-    color: #ffffff;
+    color: #000000;
     background: #ffffff;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #000000;
@@ -1217,8 +1235,13 @@ hr {
     background: #80ff00;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
-  .tile.tile-273 .tile-inner {
+  .tile.tile-264 .tile-inner {
     color: #ffffff;
+    background: #00408f;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-273 .tile-inner {
+    color: #000000;
     background: #ffc080;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #000000; }
@@ -1232,6 +1255,16 @@ hr {
     background: #0080ff;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-312 .tile-inner {
+    color: #000000;
+    background: #80c0ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-325 .tile-inner {
+    color: #000000;
+    background: #80ffff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
   .tile.tile-539 .tile-inner {
     color: #ffffff;
     background: #808000;
