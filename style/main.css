@@ -1387,11 +1387,23 @@ hr {
     background: #008080;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-276 .tile-inner {
+    color: #ffffff;
+    background: #00b5b5;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(67deg, #4e2a00, transparent 15px); }
   .tile.tile-280 .tile-inner {
     color: #ffffff;
     background: #ff0080;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-285 .tile-inner {
+    color: #ffffff;
+    background: #c10061;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-286 .tile-inner {
     color: #ffffff;
     background: #0000ff;
@@ -1419,6 +1431,17 @@ hr {
     background: #0080ff;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+   .tile.tile-306 .tile-inner {
+    color: #ffffff;
+    background: #00a300;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile-308 .tile-inner {
+    color: #ffffff;
+    background: #008000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
   .tile.tile-312 .tile-inner {
     color: #000000;
     background: #80c0ff;
@@ -1434,6 +1457,11 @@ hr {
     background: #80ffff;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-330 .tile-inner {
+    color: #ffffff;
+    background: #800000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
   .tile.tile-336 .tile-inner {
     color: #ffffff;
     background: #00ff80;
@@ -1455,14 +1483,112 @@ hr {
     background: #80ff00;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-357 .tile-inner {
+    color: #ffffff;
+    background: #55a900;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile-360 .tile-inner {
+    color: #ffffff;
+    background: #ff8000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-364 .tile-inner {
+    color: #000000;
+    background: #80ff80;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-374 .tile-inner {
+    color: #ffffff;
+    background: #00006b;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile-380 .tile-inner {
+    color: #ffffff;
+    background: #abab00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-385 .tile-inner {
     color: #ffffff;
     background: #000080;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-390 .tile-inner {
+    color: #000000;
+    background: #ff8080;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-396 .tile-inner {
+    color: #ffffff;
+    background: #008040;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-399 .tile-inner {
+    color: #ffffff;
+    background: #58af00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
+  .tile.tile-408 .tile-inner {
+    color: #ffffff;
+    background: #0080ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile-420 .tile-inner {
+    color: #ffffff;
+    background: #ff8000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-455 .tile-inner {
+    color: #000000;
+    background: #8080ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-476 .tile-inner {
+    color: #ffffff;
+    background: #00a300;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile-490 .tile-inner {
+    color: #ffffff;
+    background: #8000ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-495 .tile-inner {
+    color: #ffffff;
+    background: #800080;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-532 .tile-inner {
+    color: #ffffff;
+    background: #008d00;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-539 .tile-inner {
     color: #ffffff;
     background: #808000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-550 .tile-inner {
+    color: #ffffff;
+    background: #00408f;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-595 .tile-inner {
+    color: #ffffff;
+    background: #00006b;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile-660 .tile-inner {
+    color: #ffffff;
+    background: #8f4000;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
 
