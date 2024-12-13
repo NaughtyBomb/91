@@ -1069,6 +1069,12 @@ hr {
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile-138 .tile-inner {
+    color: #ffffff;
+    background: #00bf60;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(67deg, #4e2a00, transparent 15px); }
   .tile.tile-140 .tile-inner {
     color: #ffffff;
     background: #ff00ff;
@@ -1100,6 +1106,12 @@ hr {
     background: #00ffff;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-152 .tile-inner {
+    color: #ffffff;
+    background: #af00af;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-153 .tile-inner {
     color: #ffffff;
     background: #55a900;
@@ -1586,11 +1598,21 @@ hr {
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile-630 .tile-inner {
+    color: #ffffff;
+    background: #0080ff;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
   .tile.tile-660 .tile-inner {
     color: #ffffff;
     background: #8f4000;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-1001 .tile-inner {
+    color: #ffffff;
+    background: #808080;
+    font-size: 19px;
+    box-shadow: inset 0 0 0 3px #ffff00; }
 
 @-webkit-keyframes appear {
   0% {
