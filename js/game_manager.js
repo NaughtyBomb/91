@@ -59,7 +59,7 @@ GameManager.prototype.addStartTiles = function () {
 // Adds a tile in a random position
 GameManager.prototype.addRandomTile = function () {
   if (this.grid.cellsAvailable()) {
-    var value = Math.random() < 0.99999998 ? Math.random() < 0.9999999615384615384615384 ? Math.random() < 0.99999996 ? Math.random() < 0.9999995 ? Math.random() < 0.9999984375 ? Math.random() < 0.99999699374699374699374 ? Math.random() < 0.99958333333333333333333 ? Math.random() < 0.999 ? Math.random() < 0.975 ? 1 : 4 : 10 : 24 : 0 : 64 : 289 : 82 : 83 : 1001; 
+    var value = Math.random() < 0.9999999878048780487804878 ? Math.random() < 0.99999998 ? Math.random() < 0.99999996428571428571428571 ? Math.random() < 0.9999999615384615384615384 ? Math.random() < 0.99999996 ? Math.random() < 0.999999958333333333333333333 ? Math.random() < 0.99999975 ? Math.random() < 0.9999995 ? Math.random() < 0.9999984375 ? Math.random() < 0.99999699374699374699374 ? Math.random() < 0.99958333333333333333333 ? Math.random() < 0.999 ? Math.random() < 0.975 ? 1 : 4 : 10 : 24 : 0 : 64 : 289 : 361 : -81 : 82 : 83 : -84 : 1001 : 8282; 
     var tile = new Tile(this.grid.randomAvailableCell(), value);
     
     this.grid.insertTile(tile);
@@ -129,7 +129,7 @@ GameManager.prototype.move = function (direction) {
 
         // Only one merger per row traversal?
         if (next && next.value === tile.value && !next.mergedFrom) { 
-          var merged = new Tile(positions.next, Math.random() < 0.99999999 ? Math.random() < 0.9999999 ? Math.random() < 0.999999 ? Math.random() < 0.99999 ? Math.random() < 0.9999 ? Math.random() < 0.999 ? Math.random() < 0.998 ? Math.random() < 0.992 ? Math.random() < 0.98 ? Math.random() < 0.95 ? Math.random() < 0.9 ? tile.value * 1 : tile.value * 2 : tile.value * 3 : tile.value * 5 : tile.value * 7 : tile.value * 11 : tile.value * 13 : tile.value * 17 : tile.value * 19 : tile.value * 23 : tile.value * 29 : tile.value * 31);
+          var merged = new Tile(positions.next, Math.random() < 0.999999999 ? Math.random() < 0.99999999 ? Math.random() < 0.9999999 ? Math.random() < 0.999999 ? Math.random() < 0.99999 ? Math.random() < 0.9999 ? Math.random() < 0.999 ? Math.random() < 0.998 ? Math.random() < 0.992 ? Math.random() < 0.98 ? Math.random() < 0.95 ? Math.random() < 0.9 ? tile.value * 1 : tile.value * 2 : tile.value * 3 : tile.value * 5 : tile.value * 7 : tile.value * 11 : tile.value * 13 : tile.value * 17 : tile.value * 19 : tile.value * 23 : tile.value * 29 : tile.value * 31 : tile.value * 71);
           merged.mergedFrom = [tile, next];
 
           self.grid.insertTile(merged);
