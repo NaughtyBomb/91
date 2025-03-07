@@ -516,6 +516,16 @@ hr {
     color: #46a356;
     background: #c3ce7e;
     font-size: 32px; }
+  .tile.tile--1 .tile-inner {
+    color: #f3ff97;
+    background: #808080;
+    font-size: 35px;
+    background-image: repeating-radial-gradient(#dfdf7059, transparent 1px); }
+  .tile.tile--2 .tile-inner {
+    color: #aba98d;
+    background: #808080;
+    font-size: 35px;
+    background-image: repeating-radial-gradient(#dfdf7059, transparent 0.0001px); }
   .tile.tile-0 .tile-inner {
     color: #eafb09;
     background: #808080;
@@ -607,6 +617,12 @@ hr {
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
+  .tile.tile--17 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(20deg, #005900, transparent 17px); }
   .tile.tile-18 .tile-inner {
     color: #ffffff;
     background: #00ff00;
@@ -616,6 +632,12 @@ hr {
     color: #ffffff;
     background: #000000;
     font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
+  .tile.tile--19 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(129deg, #2a0055, transparent 16px); }
   .tile.tile-20 .tile-inner {
@@ -637,6 +659,12 @@ hr {
     color: #ffffff;
     background: #000000;
     font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(67deg, #4e2a00, transparent 15px); }
+  .tile.tile--23 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(67deg, #4e2a00, transparent 15px); }
   .tile.tile-24 .tile-inner {
@@ -670,6 +698,12 @@ hr {
     font-size: 32px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(173deg, #01264e, transparent 14px); }
+  .tile.tile--29 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(173deg, #01264e, transparent 14px); }
   .tile.tile-30 .tile-inner {
     color: #ffffff;
     background: #ff0000;
@@ -679,6 +713,12 @@ hr {
     color: #ffffff;
     background: #000000;
     font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(109deg, #4c0000, transparent 13px); }
+  .tile.tile--31 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(109deg, #4c0000, transparent 13px); }
   .tile.tile-32 .tile-inner {
@@ -849,6 +889,12 @@ hr {
     color: #ffffff;
     background: #000000;
     font-size: 32px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(25deg, #4c4c00, transparent 9px); }
+  .tile.tile--71 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(25deg, #4c4c00, transparent 9px); }
   .tile.tile-72 .tile-inner {
