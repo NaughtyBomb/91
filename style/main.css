@@ -526,6 +526,36 @@ hr {
     background: #808080;
     font-size: 35px;
     background-image: repeating-radial-gradient(#dfdf7059, transparent 0.0001px); }
+  .tile.tile--7 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/7.png');
+    background-size: 100px; }
+  .tile.tile--8 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/8.png');
+    background-size: 100px; }
+  .tile.tile--9 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/9.png');
+    background-size: 100px; }
+  .tile.tile--10 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/Fluff 8 2.jpg');
+    background-size: 52px; }
+  .tile.tile--11 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/11 - 82 Roundabout.png');
+    background-size: 100px; }
   .tile.tile-0 .tile-inner {
     color: #eafb09;
     background: #808080;
