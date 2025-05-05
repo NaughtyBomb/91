@@ -1615,6 +1615,13 @@ hr {
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #000000;
     background-image: repeating-linear-gradient(67deg, #4e2a00, transparent 15px); }
+  .tile.tile-323 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: url('https://naughtybomb.github.io/91/323.PNG';
+    background-size: 50px; }
   .tile.tile-325 .tile-inner {
     color: #000000;
     background: #80ffff;
@@ -2122,6 +2129,11 @@ hr {
     background: #80ffc0;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #000000; }
+  .tile.tile-1000 .tile-inner {
+    color: #ffffff;
+    background: #80ff00;
+    font-size: 19px;
+    box-shadow: inset 0 0 0 3px #ffffff; }
   .tile.tile-1001 .tile-inner {
     color: #ffffff;
     background: #808080;
