@@ -556,6 +556,12 @@ hr {
     font-size: 0px;
     background-image: url('https://naughtybomb.github.io/91/33333.png');
     background-size: 100px; }
+  .tile.tile--25 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/Danger Forest.png');
+    background-size: 100px; }
   .tile.tile--11 .tile-inner {
     color: #ffffff;
     background: #000000;
