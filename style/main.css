@@ -2103,6 +2103,12 @@ hr {
     background: #0000ff;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-601 .tile-inner {
+    color: #000000;
+    background: #ff80e9;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(180deg, #ceeb2e, transparent 8px); }
   .tile.tile-605 .tile-inner {
     color: #ffffff;
     background: #800000;
@@ -2171,6 +2177,12 @@ hr {
     background: #00ff00;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-701 .tile-inner {
+    color: #000000;
+    background: #4568ed;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(180deg, #db71f5, transparent 8px); }
   .tile.tile-714 .tile-inner {
     color: #ffffff;
     background: #858500;
@@ -2208,6 +2220,12 @@ hr {
     background: #008080;
     font-size: 25px;
     box-shadow: inset 0 0 0 3px #ffffff; }
+  .tile.tile-809 .tile-inner {
+    color: #000000;
+    background: #118566;
+    font-size: 25px;
+    box-shadow: inset 0 0 0 3px #000000;
+    background-image: repeating-linear-gradient(180deg, #c1c5a8, transparent 8px); }
   .tile.tile-819 .tile-inner {
     color: #000000;
     background: #ff8080;
