@@ -574,12 +574,30 @@ hr {
     font-size: 0px;
     background-image: url('https://naughtybomb.github.io/91/Fluff 8 2.jpg');
     background-size: 52px; }
+  .tile.tile--1003 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/1003.jpg');
+    background-size: 52px; }
+  .tile.tile--1010 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/1010.jpg');
+    background-size: 52px; }
+  .tile.tile--1012 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://naughtybomb.github.io/91/1012.jpg');
+    background-size: 52px; }
   .tile.tile--42 .tile-inner {
     color: #ffffff;
     background: #000000;
     font-size: 0px;
     background-image: url('https://naughtybomb.github.io/91/42 106 110.png');
-    background-size: 50px; }
+    background-size: 52px; }
   .tile.tile--83 .tile-inner {
     color: #ffffff;
     background: #000000;
