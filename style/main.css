@@ -530,6 +530,21 @@ hr {
     background: #808080;
     font-size: 35px;
     background-image: repeating-radial-gradient(#dfdf7059, transparent 0.0001px); }
+  .tile.tile--3 .tile-inner {
+    color: #716f56;
+    background: #808080;
+    font-size: 35px;
+    background-image: repeating-radial-gradient(#dfdf7059, transparent 0.01px); }
+  .tile.tile--4 .tile-inner {
+    color: #6d6832;
+    background: #808080;
+    font-size: 35px;
+    background-image: repeating-radial-gradient(#dfdf7059, transparent 4px); }
+  .tile.tile--5 .tile-inner {
+    color: #6d6000;
+    background: #808080;
+    font-size: 35px;
+    background-image: repeating-radial-gradient(#dfdf7059, transparent 20px); }
   .tile.tile--7 .tile-inner {
     color: #ffffff;
     background: #000000;
